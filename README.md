@@ -1,8 +1,8 @@
-# 🎯 Lottery App
+# Lottery App
 
 A **bilingual (English & Amharic)** lottery application built with **React** and **Node.js**.
 
-## 🚀 Features
+##  Features
 
 * 🎫 Create & manage lottery tickets
 * 🌐 English & Amharic support
@@ -38,7 +38,7 @@ npm run dev
 
 Runs on **[http://localhost:5000](http://localhost:5000)**
 
-## 🔑 Environment Variables
+##  Environment Variables
 
 **Backend (.env)**
 
@@ -54,7 +54,7 @@ JWT_SECRET=your_jwt_secret
 REACT_APP_API_URL=http://localhost:5000/api
 ```
 
-## 🗂️ Structure
+##  Structure
 
 ```
 lottery-app/
@@ -62,13 +62,13 @@ lottery-app/
 └── backend/     # Node.js API
 ```
 
-## 🈳 Languages
+## Languages
 
 * English 🇬🇧
 * Amharic 🇪🇹
 
 Switch using the language selector in the navbar.
 
-## 📄 License
+## License
 
 MIT License © 2025
